@@ -28,5 +28,6 @@
         <jarDirectory url="file://$MODULE_DIR$/../mysql-connector-j-9.2.0" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="MigLayout" level="project" />
   </component>
 </module>
